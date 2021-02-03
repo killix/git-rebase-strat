@@ -1,4 +1,4 @@
-$ git checkout -b main
+$ git checkout -b feature
 > do the change
 $ git add .
 $ git commit -m '...'
